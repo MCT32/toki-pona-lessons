@@ -13,22 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson 6 Pronouns.md",
+                "file": "Lesson 7 Names.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 6 Pronouns"
+              "title": "Lesson 7 Names"
             }
-          }
-        ]
-      },
-      {
-        "id": "635fd132df9c83a7",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "949965bee593b1c7",
+            "id": "af6f146b44b3d0da",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -110,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lesson 1 Pronounciation.md",
+                "file": "Lesson 7 Names.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lesson 1 Pronounciation"
+              "title": "Backlinks for Lesson 7 Names"
             }
           },
           {
@@ -172,16 +166,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lesson 1 Pronounciation.md",
+                "file": "Lesson 7 Names.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lesson 1 Pronounciation"
+              "title": "Outline of Lesson 7 Names"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -200,34 +195,35 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "949965bee593b1c7",
+  "active": "e7b5697f6c94e1e7",
   "lastOpenFiles": [
-    "Lesson 4 Adjectives.md",
-    "Lesson 3 Simple sentences.md",
     "Lesson 6 Pronouns.md",
+    "Lesson 7 Names.md",
+    "Lesson 4 Adjectives.md",
+    "res/tomo.svg",
+    "res/ma.svg",
+    "res/tomo.svg~",
+    "res/toki.svg",
+    "res/ma.svg~",
+    "res/sitelen.svg",
+    "res/toki.svg~",
+    "res/nimi.svg",
+    "res/sitelen.svg~",
+    "res/nimi.svg~",
+    "res/tomo.svg.download",
+    "res/ma.svg.download",
+    "res/toki.svg.download",
+    "res/sitelen.svg.download",
+    "res/nimi.svg.download",
+    "Lesson 3 Simple sentences.md",
     "Lesson 2 Writing systems.md",
     "Lesson 1 Pronounciation.md",
     "README.md",
     "res/suwi.svg",
     "res/sona.svg",
-    "res/suwi.svg~",
-    "res/suwi.svg.download",
     "res/wawa.svg",
-    "res/sona.scg",
-    "res/sona.scg.download",
     "res/ike.svg",
-    "res/wawa.svg~",
-    "res/wawa.svg.download",
     "res/pona.svg",
-    "res/ike.svg~",
-    "res/ike.svg.download",
-    "res/lili.svg",
-    "res/pona.svg.download",
-    "res/suli.svg",
-    "res/lili.svg~",
-    "res/soweli.svg",
-    "Suli_-_sitelen_pona_pu_(monospaced).svg",
-    "res/lukin.svg",
     "res/font.css.md",
     "2026-05-27.md"
   ]
