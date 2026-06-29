@@ -8,27 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7b5697f6c94e1e7",
+            "id": "741b196738556d09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lesson 7 Names.md",
+                "file": "Lesson 8 Prepositions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 7 Names"
-            }
-          },
-          {
-            "id": "af6f146b44b3d0da",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Slide Preview"
+              "title": "Lesson 8 Prepositions"
             }
           }
         ]
@@ -195,35 +185,36 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e7b5697f6c94e1e7",
+  "active": "741b196738556d09",
   "lastOpenFiles": [
-    "Lesson 6 Pronouns.md",
     "Lesson 7 Names.md",
+    "Lesson 8 Prepositions.md",
+    "res/tan.svg",
+    "res/lon.svg",
+    "res/tawa.svg",
+    "res/awen.svg",
+    "res/kama.svg",
+    "res/pana.svg",
+    "res/pona.svg",
+    "res/weka.svg",
+    "res/wawa.svg",
+    "res/tan.svg~",
+    "res/lon.svg~",
+    "res/tawa.svg~",
+    "res/awen.svg~",
+    "res/kama.svg~",
+    "res/pana.svg~",
+    "res/weka.svg~",
+    "res/tan.svg.download",
+    "res/lon.svg.download",
+    "res/tawa.svg.download",
+    "Lesson 6 Pronouns.md",
     "Lesson 4 Adjectives.md",
     "res/tomo.svg",
-    "res/ma.svg",
-    "res/tomo.svg~",
-    "res/toki.svg",
-    "res/ma.svg~",
-    "res/sitelen.svg",
-    "res/toki.svg~",
-    "res/nimi.svg",
-    "res/sitelen.svg~",
-    "res/nimi.svg~",
-    "res/tomo.svg.download",
-    "res/ma.svg.download",
-    "res/toki.svg.download",
-    "res/sitelen.svg.download",
-    "res/nimi.svg.download",
     "Lesson 3 Simple sentences.md",
     "Lesson 2 Writing systems.md",
     "Lesson 1 Pronounciation.md",
     "README.md",
-    "res/suwi.svg",
-    "res/sona.svg",
-    "res/wawa.svg",
-    "res/ike.svg",
-    "res/pona.svg",
     "res/font.css.md",
     "2026-05-27.md"
   ]
